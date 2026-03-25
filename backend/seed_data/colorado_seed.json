@@ -1,0 +1,457 @@
+{
+  "state_code": "CO",
+  "hunts": [
+    {
+      "hunt_code": "EM002O1R",
+      "unit": "2",
+      "species": "elk",
+      "subspecies": "bull",
+      "weapon_type": "rifle",
+      "season_number": 1,
+      "hunt_type": "limited",
+      "description": "Unit 2 Bull Elk 1st Rifle Season — coveted late-season unit along the Western Slope",
+      "draw_results": [
+        {
+          "year": 2023,
+          "applicant_type": "resident",
+          "tags_available": 40,
+          "total_applicants": 680,
+          "min_points_drawn": 11,
+          "avg_points_drawn": 12.4,
+          "overall_odds": 0.059,
+          "point_buckets": [
+            {"points": 0,  "applicants": 210, "successful": 0},
+            {"points": 1,  "applicants": 55,  "successful": 0},
+            {"points": 2,  "applicants": 44,  "successful": 0},
+            {"points": 3,  "applicants": 38,  "successful": 0},
+            {"points": 4,  "applicants": 35,  "successful": 0},
+            {"points": 5,  "applicants": 40,  "successful": 0},
+            {"points": 6,  "applicants": 38,  "successful": 0},
+            {"points": 7,  "applicants": 32,  "successful": 0},
+            {"points": 8,  "applicants": 28,  "successful": 0},
+            {"points": 9,  "applicants": 30,  "successful": 0},
+            {"points": 10, "applicants": 26,  "successful": 0},
+            {"points": 11, "applicants": 42,  "successful": 40},
+            {"points": 12, "applicants": 35,  "successful": 0},
+            {"points": 13, "applicants": 18,  "successful": 0},
+            {"points": 14, "applicants": 9,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2022,
+          "applicant_type": "resident",
+          "tags_available": 40,
+          "total_applicants": 640,
+          "min_points_drawn": 10,
+          "avg_points_drawn": 11.6,
+          "overall_odds": 0.063,
+          "point_buckets": [
+            {"points": 0,  "applicants": 195, "successful": 0},
+            {"points": 1,  "applicants": 52,  "successful": 0},
+            {"points": 2,  "applicants": 42,  "successful": 0},
+            {"points": 3,  "applicants": 36,  "successful": 0},
+            {"points": 4,  "applicants": 33,  "successful": 0},
+            {"points": 5,  "applicants": 38,  "successful": 0},
+            {"points": 6,  "applicants": 36,  "successful": 0},
+            {"points": 7,  "applicants": 30,  "successful": 0},
+            {"points": 8,  "applicants": 28,  "successful": 0},
+            {"points": 9,  "applicants": 27,  "successful": 0},
+            {"points": 10, "applicants": 45,  "successful": 40},
+            {"points": 11, "applicants": 38,  "successful": 0},
+            {"points": 12, "applicants": 22,  "successful": 0},
+            {"points": 13, "applicants": 12,  "successful": 0},
+            {"points": 14, "applicants": 6,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2021,
+          "applicant_type": "resident",
+          "tags_available": 40,
+          "total_applicants": 590,
+          "min_points_drawn": 10,
+          "avg_points_drawn": 11.0,
+          "overall_odds": 0.068,
+          "point_buckets": [
+            {"points": 0,  "applicants": 175, "successful": 0},
+            {"points": 1,  "applicants": 48,  "successful": 0},
+            {"points": 2,  "applicants": 40,  "successful": 0},
+            {"points": 3,  "applicants": 34,  "successful": 0},
+            {"points": 4,  "applicants": 31,  "successful": 0},
+            {"points": 5,  "applicants": 35,  "successful": 0},
+            {"points": 6,  "applicants": 33,  "successful": 0},
+            {"points": 7,  "applicants": 28,  "successful": 0},
+            {"points": 8,  "applicants": 25,  "successful": 0},
+            {"points": 9,  "applicants": 24,  "successful": 0},
+            {"points": 10, "applicants": 48,  "successful": 40},
+            {"points": 11, "applicants": 35,  "successful": 0},
+            {"points": 12, "applicants": 20,  "successful": 0},
+            {"points": 13, "applicants": 11,  "successful": 0},
+            {"points": 14, "applicants": 3,   "successful": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "hunt_code": "EM012O1R",
+      "unit": "12",
+      "species": "elk",
+      "subspecies": "bull",
+      "weapon_type": "rifle",
+      "season_number": 1,
+      "hunt_type": "limited",
+      "description": "Unit 12 Bull Elk 1st Rifle — moderate demand, accessible trophy unit",
+      "draw_results": [
+        {
+          "year": 2023,
+          "applicant_type": "resident",
+          "tags_available": 120,
+          "total_applicants": 490,
+          "min_points_drawn": 2,
+          "avg_points_drawn": 3.1,
+          "overall_odds": 0.245,
+          "point_buckets": [
+            {"points": 0, "applicants": 180, "successful": 0},
+            {"points": 1, "applicants": 80,  "successful": 0},
+            {"points": 2, "applicants": 95,  "successful": 120},
+            {"points": 3, "applicants": 65,  "successful": 0},
+            {"points": 4, "applicants": 40,  "successful": 0},
+            {"points": 5, "applicants": 20,  "successful": 0},
+            {"points": 6, "applicants": 10,  "successful": 0}
+          ]
+        },
+        {
+          "year": 2022,
+          "applicant_type": "resident",
+          "tags_available": 120,
+          "total_applicants": 460,
+          "min_points_drawn": 2,
+          "avg_points_drawn": 2.9,
+          "overall_odds": 0.261,
+          "point_buckets": [
+            {"points": 0, "applicants": 165, "successful": 0},
+            {"points": 1, "applicants": 75,  "successful": 0},
+            {"points": 2, "applicants": 90,  "successful": 120},
+            {"points": 3, "applicants": 60,  "successful": 0},
+            {"points": 4, "applicants": 38,  "successful": 0},
+            {"points": 5, "applicants": 20,  "successful": 0},
+            {"points": 6, "applicants": 12,  "successful": 0}
+          ]
+        },
+        {
+          "year": 2021,
+          "applicant_type": "resident",
+          "tags_available": 125,
+          "total_applicants": 430,
+          "min_points_drawn": 1,
+          "avg_points_drawn": 2.4,
+          "overall_odds": 0.291,
+          "point_buckets": [
+            {"points": 0, "applicants": 155, "successful": 0},
+            {"points": 1, "applicants": 72,  "successful": 72},
+            {"points": 2, "applicants": 85,  "successful": 53},
+            {"points": 3, "applicants": 58,  "successful": 0},
+            {"points": 4, "applicants": 35,  "successful": 0},
+            {"points": 5, "applicants": 18,  "successful": 0},
+            {"points": 6, "applicants": 7,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2020,
+          "applicant_type": "resident",
+          "tags_available": 125,
+          "total_applicants": 395,
+          "min_points_drawn": 1,
+          "avg_points_drawn": 2.2,
+          "overall_odds": 0.316,
+          "point_buckets": [
+            {"points": 0, "applicants": 140, "successful": 0},
+            {"points": 1, "applicants": 68,  "successful": 68},
+            {"points": 2, "applicants": 80,  "successful": 57},
+            {"points": 3, "applicants": 52,  "successful": 0},
+            {"points": 4, "applicants": 33,  "successful": 0},
+            {"points": 5, "applicants": 15,  "successful": 0},
+            {"points": 6, "applicants": 7,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2019,
+          "applicant_type": "resident",
+          "tags_available": 130,
+          "total_applicants": 370,
+          "min_points_drawn": 0,
+          "avg_points_drawn": 1.8,
+          "overall_odds": 0.351,
+          "point_buckets": [
+            {"points": 0, "applicants": 130, "successful": 130},
+            {"points": 1, "applicants": 62,  "successful": 0},
+            {"points": 2, "applicants": 74,  "successful": 0},
+            {"points": 3, "applicants": 48,  "successful": 0},
+            {"points": 4, "applicants": 30,  "successful": 0},
+            {"points": 5, "applicants": 14,  "successful": 0},
+            {"points": 6, "applicants": 12,  "successful": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "hunt_code": "EM061O1R",
+      "unit": "61",
+      "species": "elk",
+      "subspecies": "bull",
+      "weapon_type": "rifle",
+      "season_number": 1,
+      "hunt_type": "limited",
+      "description": "Unit 61 Bull Elk 1st Rifle — NW Colorado Flattops, highly sought unit",
+      "draw_results": [
+        {
+          "year": 2023,
+          "applicant_type": "resident",
+          "tags_available": 55,
+          "total_applicants": 820,
+          "min_points_drawn": 8,
+          "avg_points_drawn": 9.2,
+          "overall_odds": 0.067,
+          "point_buckets": [
+            {"points": 0,  "applicants": 250, "successful": 0},
+            {"points": 1,  "applicants": 70,  "successful": 0},
+            {"points": 2,  "applicants": 65,  "successful": 0},
+            {"points": 3,  "applicants": 60,  "successful": 0},
+            {"points": 4,  "applicants": 58,  "successful": 0},
+            {"points": 5,  "applicants": 55,  "successful": 0},
+            {"points": 6,  "applicants": 52,  "successful": 0},
+            {"points": 7,  "applicants": 48,  "successful": 0},
+            {"points": 8,  "applicants": 75,  "successful": 55},
+            {"points": 9,  "applicants": 52,  "successful": 0},
+            {"points": 10, "applicants": 30,  "successful": 0},
+            {"points": 11, "applicants": 5,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2022,
+          "applicant_type": "resident",
+          "tags_available": 55,
+          "total_applicants": 780,
+          "min_points_drawn": 7,
+          "avg_points_drawn": 8.5,
+          "overall_odds": 0.071,
+          "point_buckets": [
+            {"points": 0,  "applicants": 235, "successful": 0},
+            {"points": 1,  "applicants": 66,  "successful": 0},
+            {"points": 2,  "applicants": 62,  "successful": 0},
+            {"points": 3,  "applicants": 57,  "successful": 0},
+            {"points": 4,  "applicants": 55,  "successful": 0},
+            {"points": 5,  "applicants": 52,  "successful": 0},
+            {"points": 6,  "applicants": 49,  "successful": 0},
+            {"points": 7,  "applicants": 70,  "successful": 55},
+            {"points": 8,  "applicants": 68,  "successful": 0},
+            {"points": 9,  "applicants": 45,  "successful": 0},
+            {"points": 10, "applicants": 28,  "successful": 0},
+            {"points": 11, "applicants": 3,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2021,
+          "applicant_type": "resident",
+          "tags_available": 60,
+          "total_applicants": 720,
+          "min_points_drawn": 7,
+          "avg_points_drawn": 8.0,
+          "overall_odds": 0.083,
+          "point_buckets": [
+            {"points": 0,  "applicants": 215, "successful": 0},
+            {"points": 1,  "applicants": 60,  "successful": 0},
+            {"points": 2,  "applicants": 56,  "successful": 0},
+            {"points": 3,  "applicants": 52,  "successful": 0},
+            {"points": 4,  "applicants": 50,  "successful": 0},
+            {"points": 5,  "applicants": 48,  "successful": 0},
+            {"points": 6,  "applicants": 45,  "successful": 0},
+            {"points": 7,  "applicants": 68,  "successful": 60},
+            {"points": 8,  "applicants": 62,  "successful": 0},
+            {"points": 9,  "applicants": 40,  "successful": 0},
+            {"points": 10, "applicants": 24,  "successful": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "hunt_code": "DM067O1R",
+      "unit": "67",
+      "species": "deer",
+      "subspecies": "buck",
+      "weapon_type": "rifle",
+      "season_number": 1,
+      "hunt_type": "limited",
+      "description": "Unit 67 Mule Deer Buck 1st Rifle — NW Colorado quality mule deer",
+      "draw_results": [
+        {
+          "year": 2023,
+          "applicant_type": "resident",
+          "tags_available": 90,
+          "total_applicants": 450,
+          "min_points_drawn": 3,
+          "avg_points_drawn": 4.2,
+          "overall_odds": 0.200,
+          "point_buckets": [
+            {"points": 0, "applicants": 145, "successful": 0},
+            {"points": 1, "applicants": 75,  "successful": 0},
+            {"points": 2, "applicants": 68,  "successful": 0},
+            {"points": 3, "applicants": 92,  "successful": 90},
+            {"points": 4, "applicants": 45,  "successful": 0},
+            {"points": 5, "applicants": 18,  "successful": 0},
+            {"points": 6, "applicants": 7,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2022,
+          "applicant_type": "resident",
+          "tags_available": 90,
+          "total_applicants": 415,
+          "min_points_drawn": 3,
+          "avg_points_drawn": 3.9,
+          "overall_odds": 0.217,
+          "point_buckets": [
+            {"points": 0, "applicants": 130, "successful": 0},
+            {"points": 1, "applicants": 70,  "successful": 0},
+            {"points": 2, "applicants": 63,  "successful": 0},
+            {"points": 3, "applicants": 87,  "successful": 87},
+            {"points": 4, "applicants": 42,  "successful": 3},
+            {"points": 5, "applicants": 16,  "successful": 0},
+            {"points": 6, "applicants": 7,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2021,
+          "applicant_type": "resident",
+          "tags_available": 95,
+          "total_applicants": 380,
+          "min_points_drawn": 2,
+          "avg_points_drawn": 3.4,
+          "overall_odds": 0.250,
+          "point_buckets": [
+            {"points": 0, "applicants": 118, "successful": 0},
+            {"points": 1, "applicants": 65,  "successful": 0},
+            {"points": 2, "applicants": 60,  "successful": 60},
+            {"points": 3, "applicants": 80,  "successful": 35},
+            {"points": 4, "applicants": 38,  "successful": 0},
+            {"points": 5, "applicants": 14,  "successful": 0},
+            {"points": 6, "applicants": 5,   "successful": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "hunt_code": "AM009O1R",
+      "unit": "9",
+      "species": "antelope",
+      "subspecies": "buck",
+      "weapon_type": "rifle",
+      "season_number": 1,
+      "hunt_type": "limited",
+      "description": "Unit 9 Pronghorn Antelope Buck — North Park, good trophy potential",
+      "draw_results": [
+        {
+          "year": 2023,
+          "applicant_type": "resident",
+          "tags_available": 200,
+          "total_applicants": 380,
+          "min_points_drawn": 0,
+          "avg_points_drawn": 0.8,
+          "overall_odds": 0.526,
+          "point_buckets": [
+            {"points": 0, "applicants": 210, "successful": 200},
+            {"points": 1, "applicants": 80,  "successful": 0},
+            {"points": 2, "applicants": 50,  "successful": 0},
+            {"points": 3, "applicants": 25,  "successful": 0},
+            {"points": 4, "applicants": 15,  "successful": 0}
+          ]
+        },
+        {
+          "year": 2022,
+          "applicant_type": "resident",
+          "tags_available": 210,
+          "total_applicants": 355,
+          "min_points_drawn": 0,
+          "avg_points_drawn": 0.6,
+          "overall_odds": 0.592,
+          "point_buckets": [
+            {"points": 0, "applicants": 195, "successful": 195},
+            {"points": 1, "applicants": 75,  "successful": 15},
+            {"points": 2, "applicants": 48,  "successful": 0},
+            {"points": 3, "applicants": 23,  "successful": 0},
+            {"points": 4, "applicants": 14,  "successful": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "hunt_code": "EM002A1R",
+      "unit": "2",
+      "species": "elk",
+      "subspecies": "bull",
+      "weapon_type": "archery",
+      "season_number": 1,
+      "hunt_type": "limited",
+      "description": "Unit 2 Bull Elk Archery Season — Less competition than rifle, great September hunt",
+      "draw_results": [
+        {
+          "year": 2023,
+          "applicant_type": "resident",
+          "tags_available": 80,
+          "total_applicants": 420,
+          "min_points_drawn": 5,
+          "avg_points_drawn": 6.3,
+          "overall_odds": 0.190,
+          "point_buckets": [
+            {"points": 0, "applicants": 130, "successful": 0},
+            {"points": 1, "applicants": 55,  "successful": 0},
+            {"points": 2, "applicants": 50,  "successful": 0},
+            {"points": 3, "applicants": 45,  "successful": 0},
+            {"points": 4, "applicants": 42,  "successful": 0},
+            {"points": 5, "applicants": 65,  "successful": 65},
+            {"points": 6, "applicants": 20,  "successful": 15},
+            {"points": 7, "applicants": 10,  "successful": 0},
+            {"points": 8, "applicants": 3,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2022,
+          "applicant_type": "resident",
+          "tags_available": 80,
+          "total_applicants": 390,
+          "min_points_drawn": 4,
+          "avg_points_drawn": 5.7,
+          "overall_odds": 0.205,
+          "point_buckets": [
+            {"points": 0, "applicants": 118, "successful": 0},
+            {"points": 1, "applicants": 52,  "successful": 0},
+            {"points": 2, "applicants": 47,  "successful": 0},
+            {"points": 3, "applicants": 43,  "successful": 0},
+            {"points": 4, "applicants": 62,  "successful": 62},
+            {"points": 5, "applicants": 42,  "successful": 18},
+            {"points": 6, "applicants": 18,  "successful": 0},
+            {"points": 7, "applicants": 8,   "successful": 0}
+          ]
+        },
+        {
+          "year": 2021,
+          "applicant_type": "resident",
+          "tags_available": 85,
+          "total_applicants": 360,
+          "min_points_drawn": 4,
+          "avg_points_drawn": 5.4,
+          "overall_odds": 0.236,
+          "point_buckets": [
+            {"points": 0, "applicants": 110, "successful": 0},
+            {"points": 1, "applicants": 48,  "successful": 0},
+            {"points": 2, "applicants": 44,  "successful": 0},
+            {"points": 3, "applicants": 40,  "successful": 0},
+            {"points": 4, "applicants": 58,  "successful": 58},
+            {"points": 5, "applicants": 38,  "successful": 27},
+            {"points": 6, "applicants": 15,  "successful": 0},
+            {"points": 7, "applicants": 7,   "successful": 0}
+          ]
+        }
+      ]
+    }
+  ]
+}

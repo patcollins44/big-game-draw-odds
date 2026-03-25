@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Database — don't commit the local DB
+*.db
+*.sqlite3
+
+# Environment files — NEVER commit secrets
+.env
+.env.local
+.env.*.local
+
+# Frontend build output
+frontend/dist/
+frontend/node_modules/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Render deploy cache
+.render/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
