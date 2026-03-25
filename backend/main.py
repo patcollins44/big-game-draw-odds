@@ -22,7 +22,10 @@ app = FastAPI(
 )
 
 # CORS — allow frontend origin in dev; tighten in production via env var
-allowed_origins = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173,http://localhost:3000").split(",")
+allowed_origins = os.getenv(
+    "ALLOWED_ORIGINS",
+    "http://localhost:5173,http://localhost:3000,https://draw-odds-frontend.onrender.com"
+).split(",")
 
 app.add_middleware(
     CORSMiddleware,
